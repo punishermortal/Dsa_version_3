@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/punishermortal/Dsa_version_3/tree/master/0941-sort-array-by-parity) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/punishermortal/Dsa_version_3/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Hash Table
 |  |
@@ -25,9 +26,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/punishermortal/Dsa_version_3/tree/master/0941-sort-array-by-parity) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/punishermortal/Dsa_version_3/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
