@@ -21,6 +21,7 @@
 | [0027-remove-element](https://github.com/punishermortal/Dsa_version_3/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/punishermortal/Dsa_version_3/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/punishermortal/Dsa_version_3/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/punishermortal/Dsa_version_3/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/punishermortal/Dsa_version_3/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/punishermortal/Dsa_version_3/tree/master/0941-sort-array-by-parity) |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/punishermortal/Dsa_version_3/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/punishermortal/Dsa_version_3/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
