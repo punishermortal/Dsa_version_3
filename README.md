@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/punishermortal/Dsa_version_3/tree/master/0125-valid-palindrome) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/punishermortal/Dsa_version_3/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/punishermortal/Dsa_version_3/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -52,6 +53,7 @@
 | [0027-remove-element](https://github.com/punishermortal/Dsa_version_3/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/punishermortal/Dsa_version_3/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/punishermortal/Dsa_version_3/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/punishermortal/Dsa_version_3/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/punishermortal/Dsa_version_3/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/0958-sort-array-by-parity-ii) |
