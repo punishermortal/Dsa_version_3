@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/punishermortal/Dsa_version_3/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/punishermortal/Dsa_version_3/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/0958-sort-array-by-parity-ii) |
+| [1390-four-divisors](https://github.com/punishermortal/Dsa_version_3/tree/master/1390-four-divisors) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/punishermortal/Dsa_version_3/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/punishermortal/Dsa_version_3/tree/master/0189-rotate-array) |
+| [1390-four-divisors](https://github.com/punishermortal/Dsa_version_3/tree/master/1390-four-divisors) |
 ## Dynamic Programming
 |  |
 | ------- |
