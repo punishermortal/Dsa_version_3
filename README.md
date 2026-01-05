@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/punishermortal/Dsa_version_3/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1975-maximum-matrix-sum](https://github.com/punishermortal/Dsa_version_3/tree/master/1975-maximum-matrix-sum) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/punishermortal/Dsa_version_3/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/punishermortal/Dsa_version_3/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -29,6 +30,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/punishermortal/Dsa_version_3/tree/master/0958-sort-array-by-parity-ii) |
 | [1390-four-divisors](https://github.com/punishermortal/Dsa_version_3/tree/master/1390-four-divisors) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/punishermortal/Dsa_version_3/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1975-maximum-matrix-sum](https://github.com/punishermortal/Dsa_version_3/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punishermortal/Dsa_version_3/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/punishermortal/Dsa_version_3/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
